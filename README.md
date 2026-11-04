@@ -46,7 +46,7 @@ Depending on your headphones, speaker setup, or personal taste, you can also cho
 2. *(Optional)* If the `.dsp` files do not show up later, go to **Settings -> Directory -> Audio Filter** and point it to `/mnt/SDCARD/RetroArch/.retroarch/filters/audio/`.
 3. Go to **Settings -> Audio** and apply the following configuration:
    - **DSP Plugin:** Select **`Custom.dsp`** (or choose `Crystalizer.dsp`, `BassBoost.dsp`, or `ChipTuneEnhance.dsp` depending on your preference).
-   - **Audio Volume (dB) / Audio Gain:** Set to **`3.0 dB`**. Pairing `Custom.dsp` with a `3.0 dB` gain hits the sweet spot for loud, full-bodied volume without introducing digital clipping.
+   - **Volume Gain (dB):** Set to **`3.0 dB`**. Pairing `Custom.dsp` with a `3.0 dB` gain hits the sweet spot for loud, full-bodied volume without introducing digital clipping.
    - **Audio Resampler:** Set to **`sinc`**.
    - **Resampler Quality:** Set to **`Highest`** *(Recommended if your CPU is overclocked to 1600MHz; uses virtually zero extra CPU overhead and keeps games running at full speed).*
    - **Audio Latency (ms):** Set to **`48`** or **`64`**.
